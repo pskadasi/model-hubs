@@ -3,8 +3,8 @@
 
 ## Links
 
-* Click on [arXiv:2503.15222](https://arxiv.org/abs/2503.15222)
-* Click on [Hugging Face](https://huggingface.co/datasets/LingoIITGN/reddit-sentiment-model-hubs)
+* Paper: [arXiv:2503.15222](https://arxiv.org/abs/2503.15222)
+* Dataset: [Hugging Face](https://huggingface.co/datasets/LingoIITGN/reddit-sentiment-model-hubs)
 
 ## Hugging Face usage
 
